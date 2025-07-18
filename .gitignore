@@ -1,0 +1,10 @@
+# virtualenv / bytecode
+.venv/
+__pycache__/
+*.pyc
+
+# secrets
+.env
+
+# misc
+.DS_Store
