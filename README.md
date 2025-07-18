@@ -6,7 +6,7 @@ Features specialized agents for objectives, lessons, assessments, and quality re
 ## Quick-start
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/anis-marrouchi/crewai-curriculum-demo.git
 cd crewai-curriculum-demo
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
